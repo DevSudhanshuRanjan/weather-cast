@@ -16,7 +16,7 @@ Welcome to **Weather Cast**! This is a modern web application that provides real
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/weather-cast.git
+   git clone https://github.com/DevSudhanshuRanjan/weather-cast.git
    ```
 
 2. Navigate to the project directory:
